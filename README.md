@@ -7,7 +7,7 @@
 <h3 align="center">Desenvolvedor de Software</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre Mim
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 280px></picture>
+<picture> <img align="right" src= "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 Sou um estudante e entusiasta de tecnologia apaixonado por desenvolvimento de software. Explorando constantemente novas tecnologias e abraçando desafios.
 
 - :school: Estudante de **Ciência da Computação** na Universidade Estadual do Norte Fluminense
